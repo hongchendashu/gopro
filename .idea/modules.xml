@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestGrom.iml" filepath="$PROJECT_DIR$/.idea/TestGrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gin-vue-admin-main/gin-vue-admin-main/server/.idea/server.iml" filepath="$PROJECT_DIR$/../gin-vue-admin-main/gin-vue-admin-main/server/.idea/server.iml" />
+    </modules>
+  </component>
+</project>
